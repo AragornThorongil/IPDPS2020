@@ -1,0 +1,1 @@
+nohup python LearnerSimulation.py --workers=10 --model=AlexNet --epochs=100 --lr=0.01 --train-bsz=200 --ratio=0.2 &
