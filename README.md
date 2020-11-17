@@ -1,5 +1,5 @@
-# IPDPS2020
-The code is for IPDPS2020
+# TETC
+The code is for TETC
 
 1. Software
 
